@@ -3,7 +3,7 @@ int TwoPointPosePartialRotationDirect(const std::vector<Eigen::Vector3d>& model_
                                 Eigen::Matrix3d  soln_rotations[2],
                                 Eigen::Vector3d  soln_translations[2]) {
   // we assume that the gravity direction is [0 0 1]'
-  // if is not, we need to warp your coordinate system 
+  // if is not, you need to warp your coordinate system 
   
   static const double kEpsilon = 1e-9;
   // ensure the ray is normilised
