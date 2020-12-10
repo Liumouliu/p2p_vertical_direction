@@ -6,7 +6,7 @@ Although Chris Sweeney [1] et al. have solved the problem, by using a different 
 
 The implementation can be integrated within theia [2] or opengv [3] without much effort since only Eigen lib is used.
 
-The documentation is available at ![here](./PhD_thesis_ANU-pages-44-47.pdf).
+The documentation is available at [here](./PhD_thesis_ANU-pages-44-47.pdf).
 
 [1] Sweeney C, Flynn J, Nuernberger B, et al. Efficient Computation of Absolute Pose for Gravity-Aware Augmented Reality[C]//Mixed and Augmented Reality (ISMAR), 2015 IEEE International Symposium on. IEEE, 2015: 19-24.
 
